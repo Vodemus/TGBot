@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="65ceeef8-4d85-4d04-9856-7bd506faa623" name="schedule@localhost Mapping">
+      <data-sources db="f932a825-6d78-493a-b861-300cbc2d4045" />
+      <scope>
+        <node kind="database" qname="schedule" />
+      </scope>
+    </mapping>
+  </component>
+</project>
