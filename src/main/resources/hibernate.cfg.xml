@@ -21,7 +21,12 @@
         <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
 
         <!-- Mapped classes -->
-        <mapping class="org.example.Paratime"/>
-        <mapping class="org.example.Teacher"/>
+        <mapping class="model.Paratime"/>
+        <mapping class="model.Teacher"/>
+        <mapping class="model.Discipline"/>
+        <mapping class="model.Pararoom"/>
+        <mapping class="model.Paratype"/>
+        <mapping class="model.Weekday"/>
+        <mapping class="model.Schedule"/>
     </session-factory>
 </hibernate-configuration>

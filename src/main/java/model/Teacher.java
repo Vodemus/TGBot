@@ -1,8 +1,6 @@
-package org.example;
+package model;
 
 import javax.persistence.*;
-import java.sql.Time;
-import java.time.format.DateTimeFormatter;
 
 @Entity
 @Table(name = "teacher")
